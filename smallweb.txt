@@ -222,7 +222,7 @@ http://feeds2.feedburner.com/opiniojurisfeed
 http://fiddlemath.net/feed.xml
 http://financialcryptography.com/index.rdf
 http://firefly.nu/feeds/all.atom.xml
-http://firelightlove.com/feed/
+http://firelightlove.com/feed/https://github.com/kagisearch/smallweb/blob/main/smallweb.txt
 http://firstestprinciple.com/feed.xml
 http://fleen.com/feed/atom/
 http://funcall.blogspot.com/atom.xml
@@ -11190,7 +11190,6 @@ https://jamesdewes.com/feed.xml
 https://jamesdoc.com/blog/feed.xml
 https://jamesg.blog/feed.xml
 https://jamesg.blog/feeds/posts.xml
-https://jamesg.blog/feeds/posts.xml"
 https://jamesgreenblue.com/index.xml
 https://jameshalsall.co.uk/feed.xml
 https://jameshard.ing/rss.xml
@@ -26844,3 +26843,4 @@ https://zylinski.se/index.xml
 https://zypper.net/rss
 https://zythophile.co.uk/feed/
 https://zzamboni.org/post/index.xml
+https://catalystnd.com/index.xml
